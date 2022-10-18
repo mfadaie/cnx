@@ -1,0 +1,8 @@
+User:           MohamadF
+Class:          CN2
+Device Model:   Raspberry Pi 4 Model B Rev 1.4
+Description:	Ubuntu 22.04.1 LTS
+Ethernet MAC:   e4:5f:01:6d:8c:a6
+WiFi MAC:       e4:5f:01:6d:8c:a7
+CPU Serial No:  10000000ec46309a
+Time and Date:  13:38:48 18/10/22
